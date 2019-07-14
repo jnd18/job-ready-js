@@ -110,9 +110,7 @@ Algebra II
 - [ ]  Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice) by the end of this Tier.
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/flavour-restaurant-html5-responsive-web-template/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Project: Complete any sections of [
-Trigonometry
-](https://www.khanacademy.org/math/trigonometry) you have yet to complete.
+- [ ]  Project: Complete any sections of [Trigonometry](https://www.khanacademy.org/math/trigonometry) you have yet to complete.
 - [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Hard' section. 
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/) as your inspiration, include all features (hover effects, animations, etc)
@@ -124,9 +122,7 @@ Trigonometry
 - [ ]  Project: Full stack project of your choice (ideas: clone Facebook, Reddit, Netflix, Slack) - Consider building it as a Chrome Extension, Mobile, or Electron App.
 - [ ]  Project: Full stack project of your choice (make it grand). 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
-- [ ]  Project: Complete any sections of [
-Precalculus
-](https://www.khanacademy.org/math/precalculus) you have yet to complete.
+- [ ]  Project: Complete any sections of [Precalculus](https://www.khanacademy.org/math/precalculus) you have yet to complete.
 ---
 
 ## Tier 5 - Wrap everything up and prep for interviews
