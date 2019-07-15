@@ -23,7 +23,7 @@ A guide primarily focused on Frontend development, but including just enough of 
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by the end of Tier 4. 
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
-- [ ]  Start working on [Khan Academy](https://www.khanacademy.org/math) math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover [Algebra I
+- [x]  Start working on [Khan Academy](https://www.khanacademy.org/math) math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover [Algebra I
 ](https://www.khanacademy.org/math/algebra), [
 Algebra II
 ](https://www.khanacademy.org/math/algebra2), [
@@ -31,6 +31,7 @@ Trigonometry
 ](https://www.khanacademy.org/math/trigonometry) and [
 Precalculus
 ](https://www.khanacademy.org/math/precalculus)).
+    * NB. I completed all four Course Challenges to my satisfaction. I didn't do perfectly on each one, but I feel confident that I still have the core conceptual knowledge the guide is looking for.
 - [ ]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
 - [ ]  Project: [JavaScript Interview Prep](https://www.hackerrank.com/chingu-challenge-9-javascript-prep) - sign up for this now and work through it alongside the rest of the guide.
 - [ ]  Project: take a quick read through the [FAQ for this guide](#faq-for-this-guide) at the end of this document, particularly the helpful links, you'll want to reference them as you work through the guide.
@@ -119,7 +120,7 @@ Precalculus
 - [ ]  Project: Full stack project of your choice (ideas: clone Facebook, Reddit, Netflix, Slack) - Consider building it as a Chrome Extension, Mobile, or Electron App.
 - [ ]  Project: Full stack project of your choice (make it grand). 
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
-- [ ]  Project: Complete any sections of [Precalculus](https://www.khanacademy.org/math/precalculus) you have yet to complete.
+- [x]  Project: Complete any sections of [Precalculus](https://www.khanacademy.org/math/precalculus) you have yet to complete.
 ---
 
 ## Tier 5 - Wrap everything up and prep for interviews
