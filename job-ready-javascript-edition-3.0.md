@@ -76,8 +76,7 @@ Precalculus
 - [ ]  Project: Complete [the Odin Project JavaScript course](https://www.theodinproject.com/courses/javascript) including all projects (Feel free to skip the Ruby on Rails section.)
 - [ ]  Course: [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
-- [ ]  Project: Complete any sections of [Algebra I
-](https://www.khanacademy.org/math/algebra) you have yet to complete.
+- [x]  Project: Complete any sections of [Algebra I ](https://www.khanacademy.org/math/algebra) you have yet to complete.
 ---
 
 ## Tier 3 - Add Complexity
@@ -99,9 +98,7 @@ Precalculus
 - [ ]  Tackle documentation: Study the [Express.js official docs](https://expressjs.com/), paying special attention to all Getting Started and Guide sections.
 - [ ]  Project: Clone Twitter using Node.js/Express.js on the backend, and your frontend framework/library of choice. Include all basic features: signup/login/logout, follow user, search, tweet, like/retweet, home page with stream of recent tweets.
 - [ ]  Project: Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
-- [ ]  Project: Complete any sections of [
-Algebra II
-](https://www.khanacademy.org/math/algebra2) you have yet to complete.
+- [x]  Project: Complete any sections of [Algebra II ](https://www.khanacademy.org/math/algebra2) you have yet to complete.
 
 ---
 ## Tier 4 - Practice
@@ -110,7 +107,7 @@ Algebra II
 - [ ]  Project: Read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) - and make two contributions to open source projects (of your choice) by the end of this Tier.
 - [ ]  Project: [100 Days of CSS](https://codepen.io/collection/AVPPQq/) in CodePen. Complete at least 5 more at this point.
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/flavour-restaurant-html5-responsive-web-template/) as your inspiration, include all features (hover effects, animations, etc)
-- [ ]  Project: Complete any sections of [Trigonometry](https://www.khanacademy.org/math/trigonometry) you have yet to complete.
+- [x]  Project: Complete any sections of [Trigonometry](https://www.khanacademy.org/math/trigonometry) you have yet to complete.
 - [ ]  Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 - [ ]  Project: [CodinGame](https://www.codingame.com/training)  finish all problems in the 'Classic Puzzle - Hard' section. 
 - [ ]  Project: Create a web page using [this theme](https://webthemez.com/demo/fine-best-app-landing-page-free-web-template/) as your inspiration, include all features (hover effects, animations, etc)
@@ -157,15 +154,15 @@ To provide a bit more guidance in selecting a variety of projects that will invo
 ### Do you have a list of helpful links to point me in the right direction if I need a productive break, or need to consult the official docs while I'm working through all this?
 Yes, yes I do:
   - For when you need a quick/fun productive break that teaches you how to use CSS to layout a site (revisit this section in Tier 1 - Flexbox Zombies alone will prove extremely helpful learning to layout a page for the early projects.)
-    - [CSS Diner](https://flukeout.github.io/)
-    - [FlexBox Defense](http://www.flexboxdefense.com/)
-    - [FlexBox Froggy](http://flexboxfroggy.com/)
-    - [Grid Garden](http://cssgridgarden.com/)
-    - [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
+    - [ ]  [CSS Diner](https://flukeout.github.io/)
+    - [ ]  [FlexBox Defense](http://www.flexboxdefense.com/)
+    - [ ]  [FlexBox Froggy](http://flexboxfroggy.com/)
+    - [ ]  [Grid Garden](http://cssgridgarden.com/)
+    - [ ]  [FlexBox Zombies](http://geddski.teachable.com/p/flexbox-zombies)
   - For when you need a quick/fun productive break in which you also practice JavaScript
-    - [Untrusted](https://alexnisnevich.github.io/untrusted/)
-    - [Elevator Saga](http://play.elevatorsaga.com/)
-    - [Screeps](https://screeps.com)
+    - [ ]  [Untrusted](https://alexnisnevich.github.io/untrusted/)
+    - [ ]  [Elevator Saga](http://play.elevatorsaga.com/)
+    - [ ]  [Screeps](https://screeps.com)
   - For when you need assets/ideas
     - [pixabay](https://pixabay.com/)
     - [Unsplash](https://unsplash.com/)
