@@ -42,6 +42,10 @@ Precalculus
 ## Tier 1 - The Basics
 **Goal**: Become comfortable with HTML, CSS, JavaScript and SQL basics.
 
+NB. I've been working through the first course here for a couple of days, and honestly I'm finding it really slow and kind of annoying.
+I think I'll just skip this stuff, since I already know how to program.
+
+
 - [ ]  Course: [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) 
 - [ ]  Course: [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) 
 - [ ]  Course: [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) 
@@ -49,7 +53,6 @@ Precalculus
 - [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
 - [ ]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
 - [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
-- [ ]  Project: [Training JS Series](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
 
 ## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
