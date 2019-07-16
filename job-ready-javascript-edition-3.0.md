@@ -49,6 +49,7 @@ Precalculus
 - [ ]  Course: [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) 
 - [ ]  Course: [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) 
 - [ ]  Course: [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) 
+- [ ]  Project: [Training JS Series](https://www.codewars.com/collections/training-js-series-for-javascript-beginner-myjinxin2015)
 
 ## Tier 2 - Intro to Programming 
 **Goal:** Become Proficient with HTML, CSS and JavaScript.
